@@ -1,0 +1,45 @@
+
+> bufferutil@4.0.5 install C:\Apps\React\MetaverseChatApp\metaverse-yt\node_modules\bufferutil
+> node-gyp-build
+
+
+> utf-8-validate@5.0.7 install C:\Apps\React\MetaverseChatApp\metaverse-yt\node_modules\utf-8-validate
+> node-gyp-build
+
+
+> core-js-pure@3.20.0 postinstall C:\Apps\React\MetaverseChatApp\metaverse-yt\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js:[0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://patreon.com/zloirock [0m
+[96m>[94m https://paypal.me/zloirock [0m
+[96m>[94m bitcoin: bc1qlea7544qtsmj2rayg0lthvza9fau63ux0fstcz [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+
+> web3-shh@1.6.1 postinstall C:\Apps\React\MetaverseChatApp\metaverse-yt\node_modules\web3-shh
+> echo "WARNING: the web3-shh api will be deprecated in the next version"
+
+"WARNING: the web3-shh api will be deprecated in the next version"
+
+> web3-bzz@1.6.1 postinstall C:\Apps\React\MetaverseChatApp\metaverse-yt\node_modules\web3-bzz
+> echo "WARNING: the web3-bzz api will be deprecated in the next version"
+
+"WARNING: the web3-bzz api will be deprecated in the next version"
+
+> web3@1.6.1 postinstall C:\Apps\React\MetaverseChatApp\metaverse-yt\node_modules\web3
+> echo "WARNING: the web3-shh and web3-bzz api will be deprecated in the next version"
+
+"WARNING: the web3-shh and web3-bzz api will be deprecated in the next version"
++ moralis@0.0.176
+added 292 packages from 212 contributors and audited 902 packages in 317.998s
+
+115 packages are looking for funding
+  run `npm fund` for details
+
+found 5 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
